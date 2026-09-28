@@ -59,7 +59,7 @@ performance_vendas_v2/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-
+```
 
 ## 🚀 Execução local
 
